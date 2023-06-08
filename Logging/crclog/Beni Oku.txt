@@ -1,0 +1,15 @@
+//********************************************************************************************************
+	const string dosyaYolu = "C:\\Users\\omerg\\Desktop\\Logging\\crclog";//**********************************
+    //********************************************************************************************************
+
+
+
+
+Programın çalıştığını görmek için dosya yolunu kendi bilgisayarınıza göre
+ayarlayabilirsiniz.***********
+
+Programın çalıştığını denemek için dakika olarak ayarladım.
+
+Program başta bizden, dosyaların açılacağı zaman sıklığını
+ve açmak istediğimiz dosya sınırını soruyor.
+
